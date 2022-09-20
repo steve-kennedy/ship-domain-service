@@ -53,9 +53,11 @@ header{
 
 .right{
   display: flex;
-  background: black;
+  background: -webkit-linear-gradient(left, #a200d6, #ff6fdf);
+  background-size: 200% 200%;
+  animation: gradient-animation 4s ease infinite;
   border-radius: 16px;
-  padding: 12px 20px;
+  padding: 6px 12px;
   height: 99%;
   margin-right: 10%;
   margin-top: 10px;
@@ -104,7 +106,7 @@ header{
 }
 
 .mint-button {
-  background: -webkit-linear-gradient(left, #a200d6, #ff6fdf);
+  background: -webkit-linear-gradient(left, #ff8177, #b12a5b);
   font-size: 18px;
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;

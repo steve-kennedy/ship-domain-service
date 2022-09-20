@@ -1,2 +1,2 @@
-# ship-domain-service
-Ship Domain Service built using Polygon
+# ship-name-service
+Ship Name Service built using Polygon

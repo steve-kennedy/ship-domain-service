@@ -8,7 +8,6 @@ contract/typechain-types
 #Hardhat files
 contract/cache
 contract/artifacts
-contract/hardhat.config.js
 
 # dependencies
 app/node_modules
